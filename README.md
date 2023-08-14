@@ -1,4 +1,9 @@
-### Hi there 👋
+### 我是逸凡呀 🥭
+
+
+- 🐳湖北高校计算机本科在读
+- 💐目前前端开发中
+- 🌕立志成为全栈工程师
 
 <!--
 **zyifan1/zyifan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 今年汇总
+ <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=zyifan1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liyupi&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
