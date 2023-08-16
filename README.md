@@ -4,6 +4,7 @@
 - 🐳湖北高校计算机本科在读
 - 💐目前前端开发中
 - 🌕立志成为全栈工程师
+- 🎉个人博客正在建设中[淘气小周的博客](http://blog.zyifan.top/)
 
 <!--
 **zyifan1/zyifan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
